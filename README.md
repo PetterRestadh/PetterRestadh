@@ -1,5 +1,5 @@
 I am Petter Restadh and I am currently a PhD student at KTH Royal Institute of Mathematics, Stockholm. 
-Currently working on the goemetry of causal discovery algorithms via studying the characteristic imset polytope. 
+Currently working on the geometry of causal discovery algorithms via studying the characteristic imset polytope. 
 For more information, please see my webpage https://sites.google.com/view/petterrestadh/
 
 
